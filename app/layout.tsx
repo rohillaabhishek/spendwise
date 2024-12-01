@@ -11,7 +11,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SpendWise",
+  title: "SpendWize",
   description: "This is your Financial Overview Report",
 };
 
